@@ -1,0 +1,6 @@
+@GenAIOrchestrator_HostAddress = http://localhost:5120
+
+GET {{GenAIOrchestrator_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

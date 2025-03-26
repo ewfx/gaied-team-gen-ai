@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "D9tAVZMvlruGS4O1HmvMDN5uR+xDJZoMiPHivyudpyw=",
+  "Source": "GenAIOrchestrator",
+  "BasePath": "_content/GenAIOrchestrator",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
